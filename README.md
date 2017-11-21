@@ -10,3 +10,4 @@ Un servicio de alojamiento para repositorios Git.
 
 * ¿Qué es Markdown?
 
+Un lenguaje para dar formato visual al archivo de texto
